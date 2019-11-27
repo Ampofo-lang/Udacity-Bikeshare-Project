@@ -1,5 +1,10 @@
-Project title - Udacity-Bikeshare-Project
+PROJECT TITLE - Udacity-Bikeshare-Project
 Date Created  - November 27, 2019
+
+DESCRIPTION
+
+Exploring the US Bikeshare Data from these cities: Chicago, New York City and Washington.
+
 
 References
 1.https://www.w3schools.com › python
