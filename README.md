@@ -1,9 +1,12 @@
-PROJECT TITLE - Udacity-Bikeshare-Project
-Date Created  - November 27, 2019
+PROJECT TITLE  
+Udacity-Bikeshare-Project
+DATE CREATED
+ November 27, 2019
 
 DESCRIPTION
 
 Exploring the US Bikeshare Data from these cities: Chicago, New York City and Washington.
+The Python script contains calculated statistics and a built interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 
 References
