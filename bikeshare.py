@@ -31,7 +31,7 @@ def get_filters():
     while True:
         city = input('\nWhich city do you want to look at? Enter chicago, new york city  or washington?\n~ ')
         city = city.lower()
-        if city == 'chicago' or city == 'new york city' or city == 'washington':
+        if city.lower() in CITY_DATA.keys():
             break
         else:
             print('Please enter a valid city.')
