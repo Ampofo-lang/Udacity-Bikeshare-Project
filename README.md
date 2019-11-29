@@ -1,21 +1,12 @@
-PROJECT TITLE  
-Udacity-Bikeshare-Project
-
-DATE CREATED
-November 27, 2019
+PROJECT TITLE - Udacity-Bikeshare-Project
+Date Created  - November 27, 2019
 
 DESCRIPTION
 
 Exploring the US Bikeshare Data from these cities: Chicago, New York City and Washington.
-The Python script contains calculated statistics and a built interactive environment where a user chooses the data and filter for a dataset to analyze.
-
-FILES-USED
-1. chicago.csv
-2. new_york_city.csv
-3. washington.csv
 
 
-REFERENCES
+References
 1.https://www.w3schools.com › python
 2. https://pandas.pydata.org/pandas-docs/stable/options.html
 https://pandas.pydata.org/pandas-docs/stable/generated/pandas.set_option.html
